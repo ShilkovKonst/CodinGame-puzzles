@@ -11,7 +11,8 @@ Here you'll find problem-solving code written in:
 - **TypeScript**
 - **C#**
 
-The focus is on clean, readable, and efficient solutions. Most of the challenges are or will be of **medium**, **hard**, or **very hard** difficulty.
+The focus is on clean, readable, and efficient solutions. At least I hope that my solutions are efficient. :-)  
+Most of the challenges are or will be of **medium**, **hard**, or **very hard** difficulty.
 
 ### ▶️ How to Use
 
